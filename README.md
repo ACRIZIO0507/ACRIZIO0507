@@ -1,12 +1,17 @@
-👋 Olá, eu sou Bea Acrizio
-
-👀 Estou interessado em C++, C, Java, Python, SQL, CSS e HTML, e em explorar novas tecnologias.
-
-🌱 Atualmente, estou aprendendo mais sobre SQL e análise de dados.
-
-💞️ Estou procurando colaborar em projetos relacionados a programação, desenvolvimento de software e segurança cibernética.
-
-📫 Como me encontrar: beatrizpereira0506@gmail.com.
-
-😄 Pronomes: Ela/Dela.
-
+OLÁ, EU SOU A BEA ACRIZIO! 👋
+Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que estou desenvolvendo e aprendendo nas áreas de programação, desenvolvimento de software e segurança cibernética.
+🌱 Atualmente Estou Aprendendo
+* Java
+* Python
+* SQL
+* Análise de Dados
+  
+💻 ÁREAS DE INTERESSE: 
+* Desenvolvimento de Software
+* Segurança Cibernética
+* Front-End e Back-End
+  
+📫 COMO ME CONTATAR:
+Se quiser entrar em contato, sinta-se à vontade para enviar um e-mail:
+* E-mail: beatrizpereira0506@gmail.com
+😄
